@@ -65,6 +65,13 @@ export default {
 </script>
 
 <style>
+  html{
+    overflow-x: hidden;
+  }
+  body{
+    overflow-x: hidden;
+    width: 100%;
+  }
 .tab-nav{
   position: fixed;
   width: 100%;

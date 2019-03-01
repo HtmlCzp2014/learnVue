@@ -6,8 +6,10 @@ import router from './router'
 import Swiper from 'swiper'
 import 'swiper/dist/css/swiper.css'
 import "./assets/font/iconfont.css"
+import "animate.css"
 import VueResource from 'vue-resource'
 import "./assets/js/rem"
+import $ from 'jquery'
 Vue.config.productionTip = false
 
 Vue.use(VueResource)

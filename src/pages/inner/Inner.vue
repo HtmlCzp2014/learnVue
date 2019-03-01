@@ -2,7 +2,6 @@
   <div>
       <nav-header goback="1" headerTitle="内容页"></nav-header>
         {{this.$route.params.userId}}
-      <nav-footer></nav-footer>
   </div>
 </template>
 
